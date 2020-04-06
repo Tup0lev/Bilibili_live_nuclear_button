@@ -5,5 +5,5 @@ Btn.innerHTML='<img src=https://github.com/Tup0lev/Bilibili_live_nuclear_button/
 Btn.style.color='red'
 Btn.style.width='600px'
 Btn.style.height='391px'
-Btn.style.backgroundColor='grey'
+Btn.style.backgroundColor='white'
 Btn.innerHTML='<img src=https://github.com/Tup0lev/Bilibili_live_nuclear_button/blob/master/Cyka_Image.png?raw=true />';
