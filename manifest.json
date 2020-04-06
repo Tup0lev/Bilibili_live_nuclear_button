@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Blive_nuclear_button",
+  "description": "Changes golive button into nuclear button for bilibili live",
+  "version": "0.1",
+  "permissions": ["https://link.bilibili.com/*", "http://link.bilibili.com/*"],
+  "content_scripts":[
+  	{
+  		"matches": ["https://link.bilibili.com/*", "http://link.bilibili.com/*"],
+  		"js":["script.js"]
+  	}
+  ]
+
+}
+
