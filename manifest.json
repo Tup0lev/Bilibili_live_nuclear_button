@@ -1,18 +1,14 @@
 {
   "manifest_version": 2,
-
   "name": "Blive_AZ-5",
-  "description": "将啤梨啤梨直播的开播和下播按钮替换成自定义按钮",
+  "description": "将比利♂比利直播的开播和下播按钮替换成切尔诺贝利AZ-5按钮",
   "version": "2.0",
-
   "icons": {
     "48": "Cyka_Image.png"
   },
-
   "permissions": [
     "tabs", "<all_urls>"
   ],
-
   "browser_action": {
     "default_icon": "Cyka_Image.png",
     "default_popup": "popup.html"
