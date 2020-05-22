@@ -12,5 +12,8 @@
   "browser_action": {
     "default_icon": "Cyka_Image.png",
     "default_popup": "popup.html"
-  }
+  },
+"web_accessible_resources": [
+"Cyka_Image.png"
+]
 }
